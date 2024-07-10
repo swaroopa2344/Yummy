@@ -1,0 +1,225 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color:black;}
+.logo img{
+    display: flex;
+   
+    width: 2cm;
+    padding:0%;
+    margin: 0%;
+    
+}
+.bar{
+    display: flex;
+
+    justify-content:flex-end;
+  
+}
+.logo{
+    display: flex;
+}
+
+.header{        
+    
+        background-color: #E6B9A6;
+        border-bottom:2px solid #939185;
+}
+.header ul{
+    display: flex;
+    align-items:end;
+   }
+.header ul li:hover{
+    color:#939185;
+}
+.anch {
+    display: flex;
+    justify-content: end;
+   margin-top: 0%;
+    margin-right: 2rem;
+    font-weight: bold;
+}
+ li{
+margin-right: 2rem;
+}
+.search{
+    font-weight: bold;
+    font-size: 12px;
+}
+.search-logo{
+    padding-right:2rem;
+    padding-left: 1rem;
+    border: #E6B9A6;
+    width:1%;
+    cursor: block;
+}
+.food-imgs{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    background-color:antiquewhite;
+}
+.pancake{
+    padding:5%;
+    text-align: center;
+    font-weight: bold;
+    color: #E6B9A6;
+}
+.salad{
+    padding:5%;
+    text-align: center;
+    font-weight: bold;
+}
+.juice{
+    padding:5%;
+    text-align: center;font-weight: bold;
+
+}
+.text1{
+    background-color: #E6B9A6;
+}
+.text2{
+    background-color: #E6B9A6;
+}
+.text3{
+    background-color: #E6B9A6;
+}
+.breakfast{
+    display: flex;
+    justify-content: center;
+    
+    padding: 4%;
+    background-color:#E6B9A6;
+    
+}
+.breadBf{
+    
+    margin-right: 3%;
+  background-color: antiquewhite;
+    text-align: center;font-weight: bold; border-radius: 2rem;
+
+
+}
+.grilledBf{
+    margin-right: 3%;
+  background-color: antiquewhite;
+    text-align: center;font-weight: bold; border-radius: 2rem;
+
+
+}
+.skilledBf{
+    
+  background-color:antiquewhite;
+    text-align: center;font-weight: bold;
+    border-radius: 2rem;
+
+}
+.order{
+    display: flex;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  text-shadow: 2%;
+  background-color:#939185;
+  color: beige;
+  justify-content: center;
+  
+  
+}
+
+
+.call{
+    :hover{
+        color: blueviolet
+    }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 70%;
+    padding-right: 0%;
+    margin-right: 0%;
+}
+.cart{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   padding-left:2rem;
+    padding-right: 0%;
+    margin-right: 0%;
+}
+.cart :hover{
+    color:red;
+}
+.number{
+    padding-bottom: 0%;
+    padding-top: 15%;
+    padding-left: 2%;
+}
+.slogan{
+  padding-left: 20px;
+  font-family:"Dancing Script", cursive;
+  font-size: 50px;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  margin-top: 2px;
+ padding-top: 50px;
+ color:#304463;
+}
+.Salad{
+    display: flex;justify-content:center;
+    align-items: end;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:rgb(86, 83, 65);
+    margin-top: 0%;
+
+}
+.normalSalad{
+   
+    margin-right: 2%;
+    background-color: antiquewhite;
+    text-align: center;font-weight: bold; border-radius: 1%;
+
+}
+.eggSalad{
+    margin-right: 2%;background-color: antiquewhite;
+    text-align: center;font-weight: bold;border-radius:1%;
+}
+.chickenSalad{
+    margin-right: 2%;background-color: antiquewhite;
+    text-align: center;font-weight: bold; border-radius:1%;
+}
+.caption{
+    font-family:"Dancing Script", cursive;
+    font-size: 70px;
+    color:green;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+    margin-bottom: 0%;
+    margin-top: 1%;
+}
+.res-name{
+  display: flex;
+  
+  
+  
+    font-family: "Wittgenstein", serif;
+   
+        font-optical-sizing: auto;
+      font-weight: bold;
+      font-style:italic;
+      color:rgb(51, 48, 50);
+    padding-right:150px ;
+      
+      
+
+}
